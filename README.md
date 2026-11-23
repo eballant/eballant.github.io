@@ -13,4 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-<img src="images/photo.jpg" alt="Description of the image">
+
+<img
+  src="https://drive.google.com/uc?export=view&id=1TDRcmSMmy98Iove0HCiqcOYLsmmZYRca"
+  alt="Sophia and Em holding the National Champions Pennant"
+  style="max-width: 100%; height: auto;"
+>
+```
