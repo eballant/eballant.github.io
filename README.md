@@ -1,7 +1,5 @@
-## Hi there 👋
-
-<!--
-**eballant/eballant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-![Image](https://drive.google.com/uc?export=view&id=1TDRcmSMmy98Iove0HCiqcOYLsmmZYRca)
+# Emma Ballantine
+## University of Mary Washington Student '29
+## Sociology & Women's, Gender, & Sexuality Double Major
+## Disability Studies Minor
+[View My Resume](file:///C:/Users/eball/Downloads/Emma%20Ballantine's%20Resume%20(2).pdf)
